@@ -85,4 +85,4 @@ Thanks to all the people who wrote man/tutorials/examples and those who shared t
 
 Thanks to Nick Sweeting https://github.com/pirate/wireguard-docs.
 
-Thanks to Nao who did not answer any of my questions but instead asked me teh questions i should have asked myself.
+Thanks to Nao who did not answer any of my questions but instead asked me the questions i should have asked myself.
