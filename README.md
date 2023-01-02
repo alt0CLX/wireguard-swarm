@@ -1,5 +1,5 @@
 # Wireguard-swarm
-Helper tool for generating large amounts of server and/or client configuration files
+Helper tool for generating large amounts of servers and/or clients configuration files
 
 ## Why
 I needed to create a vast amount of servers hostings many peers and usefull data were scattered in a bunch of xls files. So after gathering everything in the same datasheet i thought about something that would help me not wasting hours in a cute and paste death march.
