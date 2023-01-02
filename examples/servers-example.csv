@@ -1,0 +1,4 @@
+conf_nameµsrvprivkeyµaddressµlistenµtableµmtuµpreupµpostupµpredownµpostdownµsaveconfµdns
+AngmarµCKjz6nSCBP9W+JpgWhxp8njS95S+ev9srcOIbW4eolE=µ10.0.0.1/32µ10000µµµµecho "$(date +%s) WireGuard Started" >> /var/log/wireguard.log; echo "toto"µµµyµ8.8.8.8, 8.8.4.4
+Dol_GuldurµSI3mWQdmRxhLDTjiB2EY1mUlD3zedP7SL7IojciWgn0=µ10.1.0.1/32µ10001µµµµµµµyµ8.8.8.8, 8.8.4.4
+IsengardµmBChhjDAVThNTD899ScPbcnvLhzrbyTR5SKA1Eg7mV0=µ192.168.3.4/32µ10002µµµµµµµµ
